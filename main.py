@@ -1,3 +1,10 @@
+## -----------------------------------------------------------------------------------------------
+# This tool writes a concise summary and the summaries can be grouped under a set of given topics. 
+## Developed by Manaranjan Pradhan
+## www.manaranjanp.com
+## manaranjan@gmail.com
+## -----------------------------------------------------------------------------------------------
+
 from fasthtml_hf import setup_hf_backup
 import io
 import os
